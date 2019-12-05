@@ -30,6 +30,12 @@ TextureImporter:
       213: 4033647422110264223
     second: Grey_Tileset_8
   - first:
+      213: -9150208861374347151
+    second: Grey_Tileset_9
+  - first:
+      213: 6715873474286888933
+    second: Grey_Tileset_10
+  - first:
       213: 4773122601664484566
     second: Grey_Tileset_11
   - first:
@@ -146,6 +152,102 @@ TextureImporter:
   - first:
       213: -3715003769019708639
     second: Grey_Tileset_49
+  - first:
+      213: 8935333301688848025
+    second: Grey_Tileset_50
+  - first:
+      213: 7726919296986548697
+    second: Grey_Tileset_51
+  - first:
+      213: -4199913086512660868
+    second: Grey_Tileset_52
+  - first:
+      213: 5765196753117269722
+    second: Grey_Tileset_53
+  - first:
+      213: 33958341660190942
+    second: Grey_Tileset_54
+  - first:
+      213: 5076579316053465669
+    second: Grey_Tileset_55
+  - first:
+      213: -7050332345490319319
+    second: Grey_Tileset_56
+  - first:
+      213: -4561919143242176530
+    second: Grey_Tileset_57
+  - first:
+      213: 547115611030816402
+    second: Grey_Tileset_58
+  - first:
+      213: -3107049177512988003
+    second: Grey_Tileset_59
+  - first:
+      213: 5415423862452860781
+    second: Grey_Tileset_60
+  - first:
+      213: -7862555178814751734
+    second: Grey_Tileset_61
+  - first:
+      213: -6451938848689720892
+    second: Grey_Tileset_62
+  - first:
+      213: 643366196225277489
+    second: Grey_Tileset_63
+  - first:
+      213: -868784314429765890
+    second: Grey_Tileset_64
+  - first:
+      213: -5401739037560485738
+    second: Grey_Tileset_65
+  - first:
+      213: 1662612763494676303
+    second: Grey_Tileset_66
+  - first:
+      213: -5274365768104313602
+    second: Grey_Tileset_67
+  - first:
+      213: 5278484940301654694
+    second: Grey_Tileset_68
+  - first:
+      213: 2067461688629771468
+    second: Grey_Tileset_69
+  - first:
+      213: 9046978335190892540
+    second: Grey_Tileset_70
+  - first:
+      213: -9120816511542964872
+    second: Grey_Tileset_71
+  - first:
+      213: 8138402637004795520
+    second: Grey_Tileset_72
+  - first:
+      213: -5690468823096493265
+    second: Grey_Tileset_73
+  - first:
+      213: 3999370691316424812
+    second: Grey_Tileset_74
+  - first:
+      213: -7202840805087310340
+    second: Grey_Tileset_75
+  - first:
+      213: -8742796173908580106
+    second: Grey_Tileset_76
+  - first:
+      213: -5599235542032392156
+    second: Grey_Tileset_77
+  - first:
+      213: -3643496342885337223
+    second: Grey_Tileset_80
+  - first:
+      213: 8000003654268678589
+    second: Grey_Tileset_81
+  - first:
+      213: -4237623718741917113
+    second: Grey_Tileset_82
+  - first:
+      213: 6396610468889800570
+    second: Grey_Tileset_83
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -234,17 +336,17 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 112
+        y: 224
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ae5659282139d934cb5240fd719f5a02
+      spriteID: 1debd3c6e5629344594586357c6971ff
       internalID: -4026721936742125168
       vertices: []
       indices: 
@@ -254,18 +356,18 @@ TextureImporter:
       name: Grey_Tileset_1
       rect:
         serializedVersion: 2
-        x: 16
-        y: 112
+        x: 64
+        y: 224
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 45c66466191330c4cbbd25b61e9a8720
+      spriteID: 0318526a3386e3e4bbe3fa3a4e92ba01
       internalID: -83278152761965751
       vertices: []
       indices: 
@@ -275,18 +377,18 @@ TextureImporter:
       name: Grey_Tileset_2
       rect:
         serializedVersion: 2
-        x: 32
-        y: 112
+        x: 128
+        y: 224
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 177f33e221fe9034e982acdd37e3eab8
+      spriteID: 79f58efa5e80d324cb953a42f34689fc
       internalID: -4446896076429669686
       vertices: []
       indices: 
@@ -296,18 +398,18 @@ TextureImporter:
       name: Grey_Tileset_3
       rect:
         serializedVersion: 2
-        x: 128
-        y: 112
+        x: 192
+        y: 224
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b991faccd5ad1eb428a06a14d38114ac
+      spriteID: 8d76a614d9e308c4c806b8caa2a6082a
       internalID: 7812788388014722788
       vertices: []
       indices: 
@@ -317,18 +419,18 @@ TextureImporter:
       name: Grey_Tileset_4
       rect:
         serializedVersion: 2
-        x: 144
-        y: 112
+        x: 16
+        y: 208
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a6fcc848a0b84a14b99e10a3e6d584b8
+      spriteID: a064cfc6be1e7af4b93482ceb1d9dde2
       internalID: 8070613704498727870
       vertices: []
       indices: 
@@ -338,18 +440,18 @@ TextureImporter:
       name: Grey_Tileset_5
       rect:
         serializedVersion: 2
-        x: 160
-        y: 112
+        x: 32
+        y: 208
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0e01838cda5be4f4783aa1b6f157bfa3
+      spriteID: 753eb68ba3515d44293e54c9063239dd
       internalID: 1863660346907745399
       vertices: []
       indices: 
@@ -359,18 +461,18 @@ TextureImporter:
       name: Grey_Tileset_6
       rect:
         serializedVersion: 2
-        x: 0
-        y: 96
+        x: 48
+        y: 208
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 78f1eb7324dc2a644950a4e11785c263
+      spriteID: dc7afc60d7523664abab7cc02a503019
       internalID: 1001484226241555223
       vertices: []
       indices: 
@@ -380,18 +482,18 @@ TextureImporter:
       name: Grey_Tileset_7
       rect:
         serializedVersion: 2
-        x: 16
-        y: 96
+        x: 144
+        y: 208
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 38a4d66536069ba4c9320bae415737d0
+      spriteID: 5b28db6cdde2505458a6398265e7b725
       internalID: 1263979886891193551
       vertices: []
       indices: 
@@ -401,19 +503,61 @@ TextureImporter:
       name: Grey_Tileset_8
       rect:
         serializedVersion: 2
-        x: 32
-        y: 96
+        x: 160
+        y: 208
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5bdf0917dc1e173459c2708d463c1bc8
+      spriteID: 4a3905372d6756643b8d4044f55c5dd6
       internalID: 4033647422110264223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grey_Tileset_9
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51c5d4d25a3684546b994fb066815a5a
+      internalID: -9150208861374347151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grey_Tileset_10
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5261f74678c6001409fd789db8af0938
+      internalID: 6715873474286888933
       vertices: []
       indices: 
       edges: []
@@ -422,18 +566,18 @@ TextureImporter:
       name: Grey_Tileset_11
       rect:
         serializedVersion: 2
-        x: 128
-        y: 96
+        x: 32
+        y: 192
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7a16befd07029c0498563f9d0aa4b728
+      spriteID: 6d2320d643bd13247b5692dae9e2d8a1
       internalID: 4773122601664484566
       vertices: []
       indices: 
@@ -443,18 +587,18 @@ TextureImporter:
       name: Grey_Tileset_12
       rect:
         serializedVersion: 2
-        x: 144
-        y: 96
+        x: 48
+        y: 192
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1ca3dafa8613d0c4a89a29458b3edd6b
+      spriteID: fcaf842e54bc8e3458d548e89675413f
       internalID: 4382670338694768364
       vertices: []
       indices: 
@@ -464,18 +608,18 @@ TextureImporter:
       name: Grey_Tileset_13
       rect:
         serializedVersion: 2
-        x: 160
-        y: 96
+        x: 144
+        y: 192
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ace6f2b8e6bd7e54e954fa51dd62249b
+      spriteID: 657e4c2bc4658374ca44d649c56fff13
       internalID: 7662567415674252300
       vertices: []
       indices: 
@@ -485,18 +629,18 @@ TextureImporter:
       name: Grey_Tileset_14
       rect:
         serializedVersion: 2
-        x: 0
-        y: 80
+        x: 160
+        y: 192
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a50e61fc402239f42a0d6c72a7b5cd39
+      spriteID: 61022bf2358606b4d98ba606caf82f4a
       internalID: 2281431046824692759
       vertices: []
       indices: 
@@ -506,18 +650,18 @@ TextureImporter:
       name: Grey_Tileset_15
       rect:
         serializedVersion: 2
-        x: 16
-        y: 80
+        x: 176
+        y: 192
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 776030810fed1f74087c1eb32d0c1b37
+      spriteID: c10fd82a766b0f343872da47e8cb4cad
       internalID: 4494882374454265798
       vertices: []
       indices: 
@@ -527,18 +671,18 @@ TextureImporter:
       name: Grey_Tileset_16
       rect:
         serializedVersion: 2
-        x: 32
-        y: 80
+        x: 16
+        y: 176
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8fa835808d9621148b009ec404f08391
+      spriteID: f8a0da0c73e92194f8f4230b8e7dba21
       internalID: -9154905018334611014
       vertices: []
       indices: 
@@ -548,18 +692,18 @@ TextureImporter:
       name: Grey_Tileset_17
       rect:
         serializedVersion: 2
-        x: 48
-        y: 80
+        x: 32
+        y: 176
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 30b64b50e8b7a6d4dac11caac5f0cdd3
+      spriteID: 31ddf72f17d68444f92270e6001a758f
       internalID: 7334033629643344465
       vertices: []
       indices: 
@@ -569,18 +713,18 @@ TextureImporter:
       name: Grey_Tileset_18
       rect:
         serializedVersion: 2
-        x: 64
-        y: 80
+        x: 48
+        y: 176
         width: 16
-        height: 32
-      alignment: 9
-      pivot: {x: 0.5, y: 0.25}
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4891e7c5c222c8f49a7f99dbd6665597
+      spriteID: ec7e366c07a42504ea49dcf5e5a23138
       internalID: -2056678224186941004
       vertices: []
       indices: 
@@ -590,18 +734,18 @@ TextureImporter:
       name: Grey_Tileset_19
       rect:
         serializedVersion: 2
-        x: 96
-        y: 80
+        x: 144
+        y: 176
         width: 16
-        height: 32
-      alignment: 9
-      pivot: {x: 0.5, y: 0.25}
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0498dc4287f62f5429448813899ad5d1
+      spriteID: 8191970361fba134e8cbc5f54bb28628
       internalID: 1833926032895569668
       vertices: []
       indices: 
@@ -611,18 +755,18 @@ TextureImporter:
       name: Grey_Tileset_20
       rect:
         serializedVersion: 2
-        x: 112
-        y: 80
+        x: 160
+        y: 176
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7e1c9c31f10a897419418bda3eb41df8
+      spriteID: f263729eac4d30b44a94b88ce60543cf
       internalID: 6274369473704579488
       vertices: []
       indices: 
@@ -632,18 +776,18 @@ TextureImporter:
       name: Grey_Tileset_21
       rect:
         serializedVersion: 2
-        x: 128
-        y: 80
+        x: 176
+        y: 176
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9519eece93f011e4d8527613d40dc457
+      spriteID: a9a821be4384bc24ea956209eb121c8e
       internalID: 869950030825734742
       vertices: []
       indices: 
@@ -653,18 +797,18 @@ TextureImporter:
       name: Grey_Tileset_22
       rect:
         serializedVersion: 2
-        x: 144
-        y: 80
+        x: 0
+        y: 160
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 52a181b9d0a8f4547a66043edb0b050d
+      spriteID: 3ea98d3ec3edc124c80c77d5652c473e
       internalID: -8075622023265824260
       vertices: []
       indices: 
@@ -674,18 +818,18 @@ TextureImporter:
       name: Grey_Tileset_23
       rect:
         serializedVersion: 2
-        x: 160
-        y: 80
+        x: 64
+        y: 160
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3e0f0a1ca5dd51545991b23beeb50686
+      spriteID: c39a8a36b58a1f044b6512d424d2fe48
       internalID: 1174501712003513209
       vertices: []
       indices: 
@@ -695,18 +839,18 @@ TextureImporter:
       name: Grey_Tileset_24
       rect:
         serializedVersion: 2
-        x: 0
-        y: 48
+        x: 128
+        y: 160
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ca2216d450f9be148a2dd129011e6c72
+      spriteID: 949cccdbe0820f54e98e9acdbd4658eb
       internalID: 8099869249161168051
       vertices: []
       indices: 
@@ -716,18 +860,18 @@ TextureImporter:
       name: Grey_Tileset_25
       rect:
         serializedVersion: 2
-        x: 16
-        y: 48
+        x: 192
+        y: 160
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ac36aef9415ba65478bcaaf2947ba897
+      spriteID: e58c5cf41e931124b84daf4ae5d37c90
       internalID: -1432093683370729304
       vertices: []
       indices: 
@@ -737,18 +881,18 @@ TextureImporter:
       name: Grey_Tileset_26
       rect:
         serializedVersion: 2
-        x: 144
-        y: 48
+        x: 0
+        y: 128
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bbbdd88c4f925bb49a31daa905684ab4
+      spriteID: 620e76e91566bc94f812146176a89483
       internalID: -8945246959775408983
       vertices: []
       indices: 
@@ -758,18 +902,18 @@ TextureImporter:
       name: Grey_Tileset_27
       rect:
         serializedVersion: 2
-        x: 160
-        y: 48
+        x: 16
+        y: 128
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1a7ede69cc9fd984187eeef74567b8b3
+      spriteID: edbdf07fa9f559a4480cfbc89b8de437
       internalID: 8811186941229901503
       vertices: []
       indices: 
@@ -779,18 +923,18 @@ TextureImporter:
       name: Grey_Tileset_28
       rect:
         serializedVersion: 2
-        x: 0
-        y: 32
+        x: 32
+        y: 128
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e5bf3ad46425fee458925a7d9bdaf5e0
+      spriteID: 4ef893a9c6bdc68408c196302a0ddcae
       internalID: 655895169516435332
       vertices: []
       indices: 
@@ -800,18 +944,18 @@ TextureImporter:
       name: Grey_Tileset_29
       rect:
         serializedVersion: 2
-        x: 16
-        y: 32
+        x: 48
+        y: 128
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1f4a1f23c3e9e9646ace600c0aef5390
+      spriteID: 678389fe8fc58e84e958345e635f80fe
       internalID: 340147566919118984
       vertices: []
       indices: 
@@ -821,18 +965,18 @@ TextureImporter:
       name: Grey_Tileset_30
       rect:
         serializedVersion: 2
-        x: 32
-        y: 32
+        x: 144
+        y: 128
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2286e2fee200e5f409d172aaa84fdabe
+      spriteID: af4c7f4224b2af240a6ed28b232451da
       internalID: 5086336793432793237
       vertices: []
       indices: 
@@ -842,18 +986,18 @@ TextureImporter:
       name: Grey_Tileset_31
       rect:
         serializedVersion: 2
-        x: 48
-        y: 32
+        x: 160
+        y: 128
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 03585359c10b7d14697b4acfa205e953
+      spriteID: ee70518f95940dc43bb9e42cb90cdf7c
       internalID: 5791617662458965497
       vertices: []
       indices: 
@@ -863,18 +1007,18 @@ TextureImporter:
       name: Grey_Tileset_32
       rect:
         serializedVersion: 2
-        x: 112
-        y: 32
+        x: 176
+        y: 128
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 62c16158cdee3ab488f126be3fa12145
+      spriteID: fee2e700c0f264c45b374af529a0279a
       internalID: 471101817869668071
       vertices: []
       indices: 
@@ -884,18 +1028,18 @@ TextureImporter:
       name: Grey_Tileset_33
       rect:
         serializedVersion: 2
-        x: 128
-        y: 32
+        x: 192
+        y: 128
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c5faa9bd39752eb44a27f5df2b43532e
+      spriteID: 8d8260e73b0b6ec448379a30a058ffb6
       internalID: -1911648274775859963
       vertices: []
       indices: 
@@ -905,18 +1049,18 @@ TextureImporter:
       name: Grey_Tileset_34
       rect:
         serializedVersion: 2
-        x: 144
-        y: 32
+        x: 0
+        y: 112
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 944044deb98e0a74aa043628a6ebc0ab
+      spriteID: 2dff2a0154c242b4eb1b0bedf288f5f7
       internalID: -5844137821686932386
       vertices: []
       indices: 
@@ -926,18 +1070,18 @@ TextureImporter:
       name: Grey_Tileset_35
       rect:
         serializedVersion: 2
-        x: 160
-        y: 32
+        x: 16
+        y: 112
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 278e791b7a0f91d49ad032b2e3575039
+      spriteID: aa7f0a34b40bbea4cae81b2852c76c95
       internalID: 9024382383997333815
       vertices: []
       indices: 
@@ -947,18 +1091,18 @@ TextureImporter:
       name: Grey_Tileset_36
       rect:
         serializedVersion: 2
-        x: 0
-        y: 16
+        x: 32
+        y: 112
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e77ae1fefdbdbf949a8575992ce210c2
+      spriteID: 79243f0f5f66d6f44b303de923d6516f
       internalID: -1103170215246348265
       vertices: []
       indices: 
@@ -968,18 +1112,18 @@ TextureImporter:
       name: Grey_Tileset_37
       rect:
         serializedVersion: 2
-        x: 16
-        y: 16
+        x: 48
+        y: 112
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5b75e8eec9ac23e4e84fd4feaa0503c2
+      spriteID: 416d82fdf42f95d43b9fe14ff4a11f06
       internalID: 6385542562245732357
       vertices: []
       indices: 
@@ -989,18 +1133,18 @@ TextureImporter:
       name: Grey_Tileset_38
       rect:
         serializedVersion: 2
-        x: 32
-        y: 16
+        x: 144
+        y: 112
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f334735aa1a41484e8b8d8c7cf70cacb
+      spriteID: 1e0407d6d2139144ebd6cc264e8a65bb
       internalID: -5646750395205453208
       vertices: []
       indices: 
@@ -1010,18 +1154,18 @@ TextureImporter:
       name: Grey_Tileset_39
       rect:
         serializedVersion: 2
-        x: 48
-        y: 16
+        x: 160
+        y: 112
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f487783b3aa1430409888d499e10aa71
+      spriteID: fe9ef250fe4ea5144b6579566b567c5c
       internalID: 5944337572255640690
       vertices: []
       indices: 
@@ -1031,18 +1175,18 @@ TextureImporter:
       name: Grey_Tileset_40
       rect:
         serializedVersion: 2
-        x: 112
-        y: 16
+        x: 176
+        y: 112
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e355a0c7555b9ca42879dd2bd46241d0
+      spriteID: 9d85ebc12c59b7e48bb82d520ccf47fe
       internalID: -259010521553072479
       vertices: []
       indices: 
@@ -1052,18 +1196,18 @@ TextureImporter:
       name: Grey_Tileset_41
       rect:
         serializedVersion: 2
-        x: 128
-        y: 16
+        x: 192
+        y: 112
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e9dfeefea98f44b40917db317d0c4444
+      spriteID: 0b67191eb7710cb47ad1e1219f57b791
       internalID: -3314788966144939361
       vertices: []
       indices: 
@@ -1073,18 +1217,18 @@ TextureImporter:
       name: Grey_Tileset_42
       rect:
         serializedVersion: 2
-        x: 144
-        y: 16
+        x: 0
+        y: 80
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 78599e808dfc3e348afbfe47e81b67a1
+      spriteID: 44bfeba3b76abfa45914321d3c343cf8
       internalID: -103616123720805967
       vertices: []
       indices: 
@@ -1094,18 +1238,18 @@ TextureImporter:
       name: Grey_Tileset_43
       rect:
         serializedVersion: 2
-        x: 160
-        y: 16
+        x: 16
+        y: 80
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2fee977c0eb2858419e194e12d33fb1b
+      spriteID: c8769a562cf2a7544a5c197c1052ed9d
       internalID: 9070576065321413072
       vertices: []
       indices: 
@@ -1115,18 +1259,18 @@ TextureImporter:
       name: Grey_Tileset_44
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
+        x: 32
+        y: 80
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d833eca372a80914594ee821338986fb
+      spriteID: c82326871e5c02d48ac83df86698bfaf
       internalID: -9129080461775186921
       vertices: []
       indices: 
@@ -1136,18 +1280,18 @@ TextureImporter:
       name: Grey_Tileset_45
       rect:
         serializedVersion: 2
-        x: 16
-        y: 0
+        x: 48
+        y: 80
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b5de303e160c58f4295990c477d13156
+      spriteID: 474ea579bed80a44a8c36fdeb1f1a796
       internalID: -6028250182945648502
       vertices: []
       indices: 
@@ -1157,18 +1301,18 @@ TextureImporter:
       name: Grey_Tileset_46
       rect:
         serializedVersion: 2
-        x: 32
-        y: 0
+        x: 64
+        y: 80
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 377523918cd71b34cba2a70a0b6cee02
+      spriteID: 1e1db3f3dbb921949a5b523c38ae80c1
       internalID: 5584738503692024715
       vertices: []
       indices: 
@@ -1178,18 +1322,18 @@ TextureImporter:
       name: Grey_Tileset_47
       rect:
         serializedVersion: 2
-        x: 128
-        y: 0
+        x: 80
+        y: 80
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b1b7c3a2dfc93674fb7f00394c9d7b7e
+      spriteID: 937d5f7004d2ce04491416aaeb671cdf
       internalID: -9088653220516974117
       vertices: []
       indices: 
@@ -1199,18 +1343,18 @@ TextureImporter:
       name: Grey_Tileset_48
       rect:
         serializedVersion: 2
-        x: 144
-        y: 0
+        x: 112
+        y: 80
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e47e1b81a27542e478f921534ac233af
+      spriteID: 8fcab802297504a489ff5ab826e1812f
       internalID: -1521240264789657697
       vertices: []
       indices: 
@@ -1220,19 +1364,649 @@ TextureImporter:
       name: Grey_Tileset_49
       rect:
         serializedVersion: 2
-        x: 160
-        y: 0
+        x: 128
+        y: 80
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 156f160f848dcbf4f835e771d58d9c52
+      spriteID: 8c522c0ce7e881647aff5b78f2432666
       internalID: -3715003769019708639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grey_Tileset_50
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8f02405161ad9a46a00d54caee6638c
+      internalID: 8935333301688848025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grey_Tileset_51
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f80f0376ce842464a809ebb7e672daa9
+      internalID: 7726919296986548697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grey_Tileset_52
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 453746f25517ed1429177dfda8291bd8
+      internalID: -4199913086512660868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grey_Tileset_53
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 230666b8189e45d469821198566a0e64
+      internalID: 5765196753117269722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grey_Tileset_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c972e2ac2ac4414abc28a7a73b35a97
+      internalID: 33958341660190942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grey_Tileset_55
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e4440d3a4dc6fe468326dcdbe2b6709
+      internalID: 5076579316053465669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grey_Tileset_56
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bc6ce028cb920d4f8cffae8703d321a
+      internalID: -7050332345490319319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grey_Tileset_58
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1cbc623d9a3b2349b3e2faafccb8fef
+      internalID: 547115611030816402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grey_Tileset_59
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ccfa86c60ef04441911845bab88a362
+      internalID: -3107049177512988003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grey_Tileset_60
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22a16043748984b488e96c0d67bfa46f
+      internalID: 5415423862452860781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grey_Tileset_61
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5cd6a1113acf1345b77981273e28d90
+      internalID: -7862555178814751734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grey_Tileset_62
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5079e7664ae3b2429253ba8f5039252
+      internalID: -6451938848689720892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grey_Tileset_64
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27640c4d557fb5145ab8cad7ca373b3e
+      internalID: -868784314429765890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grey_Tileset_65
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d18d4f95a7c2d0846be54c0b33d9e0e0
+      internalID: -5401739037560485738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grey_Tileset_66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fac048de8f055b48810587f130a493b
+      internalID: 1662612763494676303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grey_Tileset_67
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 445895e82710eb842883f76b5034eb67
+      internalID: -5274365768104313602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grey_Tileset_68
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9231592d45a7a7c47b9698560fe53aba
+      internalID: 5278484940301654694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grey_Tileset_69
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e1a4aea6bbdb7146bfc95b25c5e69a8
+      internalID: 2067461688629771468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grey_Tileset_70
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ba5e996aca8f8344a9eaec10aad20c4
+      internalID: 9046978335190892540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grey_Tileset_71
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0a5db25878c11946b9de82eb5b1d2c7
+      internalID: -9120816511542964872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grey_Tileset_72
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7031048e3365fd647923f1890c494956
+      internalID: 8138402637004795520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grey_Tileset_73
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa9a06f7f6710024dac7bfcaa4924133
+      internalID: -5690468823096493265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grey_Tileset_74
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b409f22800e52ea4fa80982c41e7c5ee
+      internalID: 3999370691316424812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grey_Tileset_75
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7d278c480e458b438ebfe00246dc246
+      internalID: -7202840805087310340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grey_Tileset_76
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f9850f69c31e0c40a3369446e4c633d
+      internalID: -8742796173908580106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grey_Tileset_77
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc967ccedf4e97d41b6503088c8d2b32
+      internalID: -5599235542032392156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grey_Tileset_80
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 16
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0338a9ba194ea9145946e819f107d72d
+      internalID: -3643496342885337223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grey_Tileset_81
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e67dbfa208c16f9438ccba7a1eb938f2
+      internalID: 8000003654268678589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grey_Tileset_82
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e405433e0491f249baa170856838ce0
+      internalID: -4237623718741917113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grey_Tileset_83
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 16
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 041d11651d635484bbcbf2bbd6f1a937
+      internalID: 6396610468889800570
       vertices: []
       indices: 
       edges: []
